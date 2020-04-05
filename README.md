@@ -2,13 +2,6 @@
 
 This is a really simple project just to practice Vue.js with plain HTML and CSS
 
-## Some images
+## Project Overview
 
-#### Home
-![Techno Homepage](screenshots/Techno-homepage.png "Techno Homepage")
-
-#### Product
-![Techno Product](screenshots/Techno-product.png "Techno Product")
-
-#### Cart
-![Techno Cart](screenshots/Techno-cart.png "Techno Cart")
+![Techno](project-overview.gif "Project Overview")
